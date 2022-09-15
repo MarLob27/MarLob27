@@ -1,3 +1,4 @@
+
 <a href="https://www.instagram.com/lpin_/" rel="nofollow">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" style="max-width: 100%;">
 <a href="https://www.linkedin.com/in/marcelolobascz/" rel="nofollow">
@@ -13,4 +14,3 @@
 
 - 🌱 I currently have experience in Rstudio, Java, Python, SQL and basic html,css and javascript knowlegde.
 
-- 📫 How to reach me: @Lpin_ on instagram or marcelinho27@uol.com.br.
