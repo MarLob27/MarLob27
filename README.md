@@ -12,5 +12,5 @@
 - I’m interested in learn more about analytics and database. 
 - Trying also learning more about how sectores in a company area van be related by Data.
 
-- 🌱 I currently have experience in Rstudio, Java, Python, SQL and basic html,css and javascript knowlegde.
+- I currently have experience in Rstudio, Java, Python, SQL and basic html,css and javascript knowlegde.
 
